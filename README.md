@@ -1,4 +1,4 @@
-👋 Hi, I'm Zavier Quintero!
+👋 Hi, I'm Zavi Quintero!
 🎓 Computer Science Major at the University of Central Florida (UCF)
 💻 Passionate about software development, machine learning, and crypto analysis
 🌟 Building projects that solve real-world problems and enhance digital experiences
