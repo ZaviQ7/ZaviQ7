@@ -22,7 +22,7 @@ My current interests and skills are focused on these areas:
 ---
 
 ### Connect with Me
-* [**LinkedIn**](https://www.linkedin.com/in/zavi-quintero-8bbb1a2b9)
+* [**LinkedIn**](https://www.linkedin.com/in/zavier-quintero-8bbb1a2b9)
 * [**X**](https://x.com/ZaviQ7)
 * [**Handshake**](https://app.joinhandshake.com/profiles/y8fkjd)
 
