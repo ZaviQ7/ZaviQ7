@@ -25,5 +25,6 @@ My current interests and skills are focused on these areas:
 * [**LinkedIn**](https://www.linkedin.com/in/zavier-quintero-8bbb1a2b9)
 * [**X**](https://x.com/ZaviQ7)
 * [**Handshake**](https://app.joinhandshake.com/profiles/y8fkjd)
+* [**Upwork**](https://www.upwork.com/freelancers/~010ce2a1e5f7fbf1f3?mp_source=share)
 
 ---
