@@ -2,7 +2,7 @@
 
 **B.S. Computer Science &nbsp;|&nbsp; University of Central Florida (UCF) &nbsp;|&nbsp; Class of 2028**
 
-[![Tech Stack](https://skillicons.dev/icons?i=python,c,git,github,gmail,py,pytorch,windows)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=python,c,git,github,py,pytorch,windows)](https://skillicons.dev)
 
 ---
 
