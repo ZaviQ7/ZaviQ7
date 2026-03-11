@@ -12,7 +12,7 @@ I'm a student developer at **UCF** dedicated to building robust, scalable softwa
 
 * 🛠️ **Backend:** Scaling server-side architectures.
 * 📈 **Quant:** Algorithmic trading & financial modeling.
-* 🤖 **ML:** Predictive systems & data pipelines (XGBoost).
+* 🤖 **ML:** Predictive systems & data pipelines.
 * ⚙️ **Automation:** Scripting & RPA.
 
 ---
