@@ -1,29 +1,25 @@
 # Zavi Quintero
 
-**B.S. Computer Science &nbsp;|&nbsp; University of Central Florida (UCF) &nbsp;|&nbsp; Class of 2028**
+**B.S. Computer Science | University of Central Florida | Class of 2028**
 
-[![Tech Stack](https://skillicons.dev/icons?i=python,c,git,github,py,pytorch,windows)](https://skillicons.dev)
-
----
-
-### About Me
-A student developer at **UCF** focused on turning ideas into practical software. My core interests lie in developing robust, scalable solutions.
+[![Tech Stack](https://skillicons.dev/icons?i=python,c,git,github,pytorch,windows,latex)](https://skillicons.dev)
+![UCF Badge](https://img.shields.io/badge/University-UCF-gold?style=flat&logo=university&logoColor=black)
 
 ---
 
-### Technical Focus
-My current interests and skills are focused on these areas:
+### ⚡ Quick About
+I'm a student developer at **UCF** dedicated to building robust, scalable software and quantitative solutions.
 
-* **Backend Engineering** – Building scalable, efficient server-side applications.
-* **Algorithmic Trading & Financial Markets** – Developing quantitative strategies and automated trading algorithms.
-* **Machine Learning (ML)** – Creating predictive models, including applications like **XGBoost**, for insights and forecasting.
-* **Automation** – Designing scripting, data pipelines, and Robotic Process Automation (RPA).
+* 🛠️ **Backend:** Scaling server-side architectures.
+* 📈 **Quant:** Algorithmic trading & financial modeling.
+* 🤖 **ML:** Predictive systems & data pipelines (XGBoost).
+* ⚙️ **Automation:** Scripting & RPA.
 
 ---
 
-### Connect with Me
-* [**LinkedIn**](https://www.linkedin.com/in/zavier-quintero-8bbb1a2b9)
-* [**X**](https://x.com/ZaviQ7)
-* [**Handshake**](https://app.joinhandshake.com/profiles/y8fkjd)
+### 🤝 Connect
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zavi-quintero-8bbb1a2b9)
+[<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/ZaviQ7)
+[<img src="https://img.shields.io/badge/Handshake-%2330BA54.svg?style=for-the-badge&logo=handshake&logoColor=white" />](https://app.joinhandshake.com/profiles/y8fkjd)
 
 ---
